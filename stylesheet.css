@@ -1,0 +1,11 @@
+h1 {
+	display: inline;
+	position: relative;
+	font-family: Orbitron;
+    font-size: 80px;
+	color: #FF0000;
+    background-color:  #172BE4; 
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+
+}
